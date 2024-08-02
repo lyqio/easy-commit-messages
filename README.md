@@ -38,3 +38,12 @@ The resulting exe file should be located in the directory
 target/debug/easy-commit-messages.exe
 ```
 
+Or use a release build
+```bash
+cargo build --release
+```
+
+Where the resulting file is found at
+```bash
+target/release/easy-commit-messages.exe
+```
