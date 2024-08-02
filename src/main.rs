@@ -19,7 +19,7 @@ const VERSION: &str = "1.0.0";
 
 fixed identical bug
 removed feline feature
-fix loyal bug
+adds charming bug
 
 */
 
@@ -46,6 +46,8 @@ fn main() {
             "--version" => {version()},
             _ => {},
         }
+
+        return;
     }
 
     print_parts(second_part);
