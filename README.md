@@ -2,6 +2,17 @@
 
 This software is designed to make your life easier by writing your commit messages for you
 
+# Examples
+
+```
+easycommitmessage
+>>> fixed identical bug
+easycommitmessage
+>>> removed feline feature
+easycommitmessage
+>>> adds charming bug
+```
+
 # Installation
 
 Download the latest binary from the [releases](https://github.com/lyqio/easy-commit-messages/releases) and then you will be able to run the .exe file to use the program.
